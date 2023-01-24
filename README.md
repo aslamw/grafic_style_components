@@ -1,0 +1,1 @@
+# grafic_style_components
